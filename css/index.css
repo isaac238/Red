@@ -52,6 +52,7 @@
      font-size: 150%;
      color: #cccccc;
     }
+
 @media (max-width: 600px) {
     .carousel-caption {
         display: none;
