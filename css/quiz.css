@@ -1,0 +1,34 @@
+.btn {
+    font-size: 18px;
+    color: #ffffff;
+    padding: 12px 22px;
+    background-color: #13532e;
+    border: 2px solid #ffffff;
+}
+
+.btn:hover {
+    font-size: 18px;
+    color: #ffffff;
+    padding: 12px 22px;
+    background-color: #229451;
+    border: 2px solid #ffffff;
+}
+
+.btn:focus {
+    outline: 0;
+    font-size: 18px;
+    color: #ffffff;
+    padding: 12px 22px;
+    background-color: #13532e;
+    border: 2px solid #ffffff;
+}
+
+#CatDiv {
+    text-align: center;
+
+}
+
+#CatDiv .btn {
+    text-align: center;
+    width: 100%;
+}

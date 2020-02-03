@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue|Karla&display=swap');
+
+.linebreak {
+    background-color: #ecf0f1;
+    height: 5px;
+}
+
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+    background-color: #c0392b;
+    color: #ffffff;
+    padding: 1% 0;
+    font-size: 1.2em;
+    border: 0;
+}
+
+.navbar-brand {
+    float: left;
+    min-height: 55px;
+    padding: 0 15px 5px;
+}
+
+.navbar{
+    color: #ffffff;
+    background-color: #c0392b;
+
+}
+
+.navbar-inverse .navbar-nav li a {
+    color: #d5d5d5
+}
+
+.container {
+    margin: 4% auto;
+}
+
+.nav-item {
+    color: #cccccc;
+    font-family: 'Karla', sans-serif;
+    font-size: 25px;
+}
+
+.navbar {
+    color: #cccccc;
+}
