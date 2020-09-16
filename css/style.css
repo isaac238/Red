@@ -1,23 +1,27 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
 body {
     background-color: #222222;
 }
 
-.Main {
-    height: 95vh;
+#outer {
     display: flex;
-    align-items: center;
-    justify-content: center
+    height: 100%;
 }
 
-.title {
+#inner {
+    margin: auto;
+}
+
+.title {    
     color: #cccccc;
     font-family: 'Karla', sans-serif;
-    margin: 0;
 }
 
 .subscript {
     color: #cccccc;
     font-family: 'Karla', sans-serif;
-    margin: 0;
-    transform: translate(-90%, 200%);
 }
